@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
   <img width="12" />
 </div>
-<p>Outside of my employment, I work on web3 using: Solidity (Hardhat), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
+<p>Web3 (by night): Solidity (Hardhat), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="12" />
   </div>
-<p>At my place of employment, I work on Data Engineering using: Python & SQL (Azure)</p>
+<p>Data Engineering (by day): Python & SQL (Azure)</p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deca12x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />

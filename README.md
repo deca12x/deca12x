@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
   <img width="12" />
 </div>
-<p>Web3 (by night): Solidity (Hardhat), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
+<p>Web3 (by night): Solidity (Hardhat & Foundry), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />

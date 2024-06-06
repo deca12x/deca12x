@@ -1,4 +1,4 @@
-## My tech stack
+## Web3 was my side hustle, now we're moving in together
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
   <img width="12" />
 </div>
-<p>Web3 (by night): Solidity (Hardhat & Foundry), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
+<p>Web3: Solidity (Hardhat & Foundry), Typescript, React (Next) frontend, Node (or Nest) backend.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="12" />
   </div>
-<p>Data Engineering (by day): Python & SQL</p>
+<p>Data Engineering: Python & SQL</p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deca12x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />

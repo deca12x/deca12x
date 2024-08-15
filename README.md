@@ -1,5 +1,5 @@
 # [👋 hey, i'm deca](https://linktr.ee/deca12x)
-#### currently blockchain security audit at Nethermind, previously 8 hackathons, previously data engineer at Jacobs
+#### blockchain security audit at Nethermind, previously 8 hackathons, previously data engineer at Jacobs
 
 <p>Web3: Solidity (Hardhat & Foundry), Typescript, React (Next) frontend, Node (or Nest) backend...</p>
 

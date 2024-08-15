@@ -1,3 +1,4 @@
+# [👋 hey, i'm deca](https://linktr.ee/deca12x)
 ## web3 was my side hustle, now we're moving in together
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />

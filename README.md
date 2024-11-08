@@ -1,5 +1,7 @@
 # [👋 hey, i'm deca](https://linktr.ee/deca12x)
-#### Blockchain security audit at Nethermind, 10+ hackathons, previously data engineer at Jacobs
+#### Currently working on https://www.cherry.builders/
+#### Hacking with https://www.builders.garden/
+#### Previously blockchain security audit at Nethermind, 10+ hackathons, data engineer at Jacobs
 
 <p>Web3: Solidity & Yul (Hardhat & Foundry), Typescript, React / Next / Node fullstack...</p>
 

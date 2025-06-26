@@ -3,7 +3,7 @@
 #### Working for [🐺 urbe.build](https://urbe.build/)
 #### Organising [🏛️ ETHRome](https://www.ethrome.org/)
 
-##### Previously blockchain security audit at Nethermind, 15+ hackathons, data engineer at Jacobs
+##### Previously blockchain security audit at Nethermind, 20+ hackathons, data engineer at Jacobs
 
 - <p>Solidity & Yul (Hardhat & Foundry)</p>
 - <p>Typescript, React / Next / Node fullstack</p>

@@ -1,6 +1,6 @@
 # [👋 hey, i'm deca](https://linktr.ee/deca12x)
 #### Currently building [🍒 cherry.builders](https://www.cherry.builders/)
-#### Working for [🐺 urbe.build](https://urbe.build/)
+#### Core member [🐺 urbe.eth](https://urbe.build/)
 #### Organising [🏛️ ETHRome](https://www.ethrome.org/)
 
 ##### Previously blockchain security audit at Nethermind, 20+ hackathons, data engineer at Jacobs
